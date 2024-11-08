@@ -34,7 +34,7 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 - มีไลบราลี่ให้ใช้งานจำนวนมาก (เว็บ , เกม , กราฟิก , AI , ML)
 - รองรับการทำงานกับฐานข้อมูล (Database)
 
-ลำดับเนื้อหาอ้างอิงตามหลักสูตร **"ก้าวแรกสู่การเขียนโปรแกรมภาษา Python"** ในช่อง Youtube [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
+ลำดับเนื้อหาอ้างอิงตามหลักสูตร **"[ก้าวแรกสู่การเขียนโปรแกรมภาษา Python](https://www.youtube.com/playlist?list=PLltVQYLz1BMBe14u-5pxxEsbJSbdxd1Vs)"** ในช่อง Youtube [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
 
 ## พื้นฐานการเขียนโปรแกรมภาษา Python (สำคัญมาก)
 |ลำดับที่|หัวข้อ|หมายเหตุ|
@@ -44,10 +44,16 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 |3|[เขียนโปรแกรมเชิงวัตถุด้วยภาษา Python (OOP)](https://youtu.be/YXNwADEE3EU)| มีพื้นฐาน Python|
 |4|[รวมเทคนิคการเขียนโปรแกรมภาษา Python](https://youtu.be/0vwFOC1yRB8)| มีพื้นฐาน Python|
 
-หลังจากเรียนเนื้อหาพื้นฐานตามลำดับที่แจ้งในตารางข้างต้นเสร็จเรียบร้อย สามารถเลือกเรียนเนื้อหาอื่นๆตามหมวดหมู่ที่สนใจได้เลย ประกอบด้วย
+หลังจากเรียนเนื้อหาพื้นฐานตามลำดับที่แจ้งในตารางข้างต้นเสร็จเรียบร้อย สามารถเลือกเรียนเนื้อหาอื่นๆตามหมวดหมู่ที่สนใจได้เลย **เรียนฟรี** ประกอบด้วย
 
 ## หมวดหมู่การพัฒนา GUI Application
 |Icons|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
 |![logo](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|[Python & Tkinter (GUI)](https://youtu.be/NQm9VhC0vW8)| มีพื้นฐาน Python , OOP |
 |![logo](https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg)|[Python & PyQt6 (GUI Framework)](https://youtu.be/EVSXaVr2jXE)| มีพื้นฐาน Python ,OOP|
+
+### หมวดหมู่การพัฒนาเว็บ (Backend Web Development)
+|Icons|หัวข้อ|หมายเหตุ|
+|:----:|:-------:|:-------------:|
+|![logo](https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg)|[Django Framework](https://youtu.be/XLMLveR2BYo)| มีพื้นฐาน Python , OOP , HTML5 , CSS3 , JavaScript, Bootstrap5 , SQL |
+|![logo](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg)|[Flask Micro Web Framework](https://youtu.be/U1JUicQzGMI)| มีพื้นฐาน Python , OOP , HTML5, CSS3 , JavaScript , Bootstrap5 , SQL|
