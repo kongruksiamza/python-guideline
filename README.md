@@ -70,6 +70,16 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 |![logo](https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg)|[Django Framework](https://youtu.be/XLMLveR2BYo)| มีพื้นฐาน Python , OOP , HTML5 , CSS3 , JavaScript , Bootstrap5 , SQL |
 |![logo](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg)|[Flask Micro Web Framework](https://youtu.be/U1JUicQzGMI)| มีพื้นฐาน Python , OOP , HTML5, CSS3 , JavaScript , Bootstrap5 , SQL|
 
+#### เนื้อหาปูพื้นฐานการพัฒนาเว็บ (หัวข้อเสริม)
+|Icons|หัวข้อ|หมายเหตุ|
+|:----:|:-------:|:-------------:|
+|![logo](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)|[HTML5 เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMDf-N2ZmyJKEv4VlpM_9m67)|-|
+|![logo](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)|[CSS3 เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMBeWsNwB06VT3t8m5575qCP)| มีพื้นฐาน HTML5|
+|![logo](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)|[JavaScript เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMDsB7SrMh8x6uDTfl7LdNlP)| มีพื้นฐาน HTML5 , CSS3|
+|![logo](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg)|[Bootstrap5 เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMDNdxqTqiOm-D2CN3J2PF-F)| มีพื้นฐาน HTML5 , CSS3 , JavaScript |
+|![logo](https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg)|[จัดการฐานข้อมูลด้วย SQL (SQLite)](https://www.youtube.com/playlist?list=PLltVQYLz1BMAP6veiejiMdwX7J9GqmkZS)|-|
+
+
 ## หมวดหมู่บล็อกเชน (Blockchain)
 |Icons|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
