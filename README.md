@@ -55,5 +55,5 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 ### หมวดหมู่การพัฒนาเว็บ (Backend Web Development)
 |Icons|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
-|![logo](https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg)|[Django Framework](https://youtu.be/XLMLveR2BYo)| มีพื้นฐาน Python , OOP , HTML5 , CSS3 , JavaScript, Bootstrap5 , SQL |
+|![logo](https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg)|[Django Framework](https://youtu.be/XLMLveR2BYo)| มีพื้นฐาน Python , OOP , HTML5 , CSS3 , JavaScript , Bootstrap5 , SQL |
 |![logo](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg)|[Flask Micro Web Framework](https://youtu.be/U1JUicQzGMI)| มีพื้นฐาน Python , OOP , HTML5, CSS3 , JavaScript , Bootstrap5 , SQL|
