@@ -34,6 +34,18 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 - มีไลบราลี่ให้ใช้งานจำนวนมาก (เว็บ , เกม , กราฟิก , AI , ML)
 - รองรับการทำงานกับฐานข้อมูล (Database)
 
+### ตัวอย่างการประยุกต์ใช้งาน
+- พัฒนาแอพพลิเคชั่นในรูปแบบ GUI ได้ (Tkinter , PyQT)
+- พัฒนาเว็บแอพพลิเคชั่นได้ (Django Framework , Flask)
+- พัฒนาเกมได้ (Pygame)
+- รองรับงานด้าน Data Science  (Numpy , Pandas , Matplotlib)
+- รองรับงานด้าน Machine Learning & AI
+- งานด้านการประมวลผลภาพ (Image Processing)
+- การพัฒนาระบบแผนที่
+- การสกัดข้อมูลจากเว็บไซต์ (Web Scrapping)
+- การพัฒนา API (Fast API , Django REST Framework)
+  
+---
 ลำดับเนื้อหาอ้างอิงตามหลักสูตร **"[ก้าวแรกสู่การเขียนโปรแกรมภาษา Python](https://www.youtube.com/playlist?list=PLltVQYLz1BMBe14u-5pxxEsbJSbdxd1Vs)"** ในช่อง Youtube [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
 
 ## พื้นฐานการเขียนโปรแกรมภาษา Python (สำคัญมาก)
