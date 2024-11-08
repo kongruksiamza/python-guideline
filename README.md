@@ -48,7 +48,7 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 ---
 ลำดับเนื้อหาอ้างอิงตามหลักสูตร **"[ก้าวแรกสู่การเขียนโปรแกรมภาษา Python](https://www.youtube.com/playlist?list=PLltVQYLz1BMBe14u-5pxxEsbJSbdxd1Vs)"** ในช่อง Youtube [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
 
-## พื้นฐานการเขียนโปรแกรมภาษา Python (สำคัญมาก)
+### พื้นฐานการเขียนโปรแกรมภาษา Python (สำคัญมาก)
 |ลำดับที่|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
 |1|[พื้นฐานการเขียนโปรแกรมภาษา Python (Phase1)](https://youtu.be/HEqxgFyK77I)|  - |
@@ -58,7 +58,7 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 
 หลังจากเรียนเนื้อหาพื้นฐานตามลำดับที่แจ้งในตารางข้างต้นเสร็จเรียบร้อย สามารถเลือกเรียนเนื้อหาอื่นๆตามหมวดหมู่ที่สนใจได้เลย **(เรียนฟรี)** ประกอบด้วย
 
-## หมวดหมู่การพัฒนา GUI Application
+### หมวดหมู่การพัฒนา GUI Application
 |Icons|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
 |![logo](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|[Python & Tkinter (GUI)](https://youtu.be/NQm9VhC0vW8)| มีพื้นฐาน Python , OOP |
