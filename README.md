@@ -69,3 +69,13 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 |:----:|:-------:|:-------------:|
 |![logo](https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg)|[Django Framework](https://youtu.be/XLMLveR2BYo)| มีพื้นฐาน Python , OOP , HTML5 , CSS3 , JavaScript , Bootstrap5 , SQL |
 |![logo](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg)|[Flask Micro Web Framework](https://youtu.be/U1JUicQzGMI)| มีพื้นฐาน Python , OOP , HTML5, CSS3 , JavaScript , Bootstrap5 , SQL|
+
+## หมวดหมู่การพัฒนาเกม (Game Development)
+|Icons|หัวข้อ|หมายเหตุ|
+|:----:|:-------:|:-------------:|
+|![logo](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|[Pygame](https://youtu.be/2-UltIb7k5g)| มีพื้นฐาน Python , OOP |
+
+## หมวดหมู่การประมวลผลภาพ (Image Processing)
+|Icons|หัวข้อ|หมายเหตุ|
+|:----:|:-------:|:-------------:|
+|![logo](https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg)|[Python & OpenCV](https://youtu.be/fLDJJXEykvo)| มีพื้นฐาน Python , OOP ,Numpy , Pandas , Matplotib |
