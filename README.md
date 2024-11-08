@@ -78,4 +78,4 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 ## หมวดหมู่การประมวลผลภาพ (Image Processing)
 |Icons|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
-|![logo](https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg)|[Python & OpenCV](https://youtu.be/fLDJJXEykvo)| มีพื้นฐาน Python , OOP ,Numpy , Pandas , Matplotib |
+|![logo](https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg)|[Python & OpenCV](https://youtu.be/fLDJJXEykvo)| มีพื้นฐาน Python , OOP , Numpy , Pandas , Matplotib |
