@@ -39,6 +39,15 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 ## พื้นฐานการเขียนโปรแกรมภาษา Python (สำคัญมาก)
 |ลำดับที่|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
-|1|[เขียนโปรแกรมภาษา Python เบื้องต้น (Phase1)](https://youtu.be/HEqxgFyK77I)|  - |
-|2|[เขียนโปรแกรมภาษา Python เบื้องต้น (Phase2)](https://youtu.be/TruM1rO3zcc)|  - |
-|3|[เขียนโปรแกรมเชิงวัตถุด้วยภาษา Python (OOP)](https://youtu.be/YXNwADEE3EU)| *ต้องเรียน Python เบื้องต้นมาก่อน|
+|1|[พื้นฐานการเขียนโปรแกรมภาษา Python (Phase1)](https://youtu.be/HEqxgFyK77I)|  - |
+|2|[พื้นฐานการเขียนโปรแกรมภาษา Python (Phase2)](https://youtu.be/TruM1rO3zcc)|  - |
+|3|[เขียนโปรแกรมเชิงวัตถุด้วยภาษา Python (OOP)](https://youtu.be/YXNwADEE3EU)| มีพื้นฐาน Python|
+|4|[รวมเทคนิคการเขียนโปรแกรมภาษา Python](https://youtu.be/0vwFOC1yRB8)| มีพื้นฐาน Python|
+
+หลังจากเรียนเนื้อหาพื้นฐานตามลำดับที่แจ้งในตารางข้างต้นเสร็จเรียบร้อย สามารถเลือกเรียนเนื้อหาอื่นๆตามหมวดหมู่ที่สนใจได้เลย ประกอบด้วย
+
+## หมวดหมู่การพัฒนา GUI Application
+|Icons|หัวข้อ|หมายเหตุ|
+|:----:|:-------:|:-------------:|
+|![logo](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|[Python & Tkinter (GUI)](https://youtu.be/NQm9VhC0vW8)| มีพื้นฐาน Python , OOP |
+|![logo](https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg)|[Python & PyQt6 (GUI Framework)](https://youtu.be/EVSXaVr2jXE)| มีพื้นฐาน Python ,OOP|
