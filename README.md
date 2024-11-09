@@ -27,7 +27,8 @@
 </div>
 
 ## ภาพรวมเนื้อหา
-- [Introduction](#Introduction)
+- [แนะนำเนื้อหา (Introduction)](#Introduction)
+- [ปูพื้นฐาน Python](# ปูพื้นฐานการเขียนโปรแกรมภาษา Python)
 
 # Introduction
 Python คือ ภาษาคอมพิวเตอร์ที่ใช้สำหรับการพัฒนาโปรแกรมโดยผู้พัฒนาต้องเรียนรู้โครงสร้างภาษา Python ว่ามีโครงสร้างการเขียนอย่างไรเพื่อสั่งการให้คอมพิวเตอร์นั้นสามารถทำงานตามวัตถุประสงค์ที่ต้องการได้
@@ -54,7 +55,7 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 ---
 ลำดับเนื้อหาอ้างอิงตามหลักสูตร **"[ก้าวแรกสู่การเขียนโปรแกรมภาษา Python](https://www.youtube.com/playlist?list=PLltVQYLz1BMBe14u-5pxxEsbJSbdxd1Vs)"** ในช่อง Youtube [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
 
-## ปูพื้นฐานการเขียนโปรแกรมภาษา Python (สำคัญมาก)
+# ปูพื้นฐานการเขียนโปรแกรมภาษา Python (สำคัญมาก)
 |ลำดับที่|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
 |1|[พื้นฐานการเขียนโปรแกรมภาษา Python (Phase1)](https://youtu.be/HEqxgFyK77I)|  - |
