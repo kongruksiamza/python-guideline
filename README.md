@@ -64,29 +64,29 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 ## หมวดหมู่การพัฒนา GUI Application
 |ไลบราลี่|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
-|![logo](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|[Python & Tkinter (GUI)](https://youtu.be/NQm9VhC0vW8)| มีพื้นฐาน Python , OOP |
-|![logo](https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg)|[Python & PyQt6 (GUI Framework)](https://youtu.be/EVSXaVr2jXE)| มีพื้นฐาน Python ,OOP|
+|![logo](https://skillicons.dev/icons?i=python)|[Python & Tkinter (GUI)](https://youtu.be/NQm9VhC0vW8)| มีพื้นฐาน Python , OOP |
+|![logo](https://skillicons.dev/icons?i=qt)|[Python & PyQt6 (GUI Framework)](https://youtu.be/EVSXaVr2jXE)| มีพื้นฐาน Python ,OOP|
 
 ## หมวดหมู่การพัฒนาเว็บ (Backend Web Development)
 |ไลบราลี่|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
-|![logo](https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg)|[Django Framework](https://youtu.be/XLMLveR2BYo)| มีพื้นฐาน Python , OOP , HTML5 , CSS3 , JavaScript , Bootstrap5 , SQL |
-|![logo](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg)|[Flask Micro Web Framework](https://youtu.be/U1JUicQzGMI)| มีพื้นฐาน Python , OOP , HTML5, CSS3 , JavaScript , Bootstrap5 , SQL|
+|![logo](https://skillicons.dev/icons?i=django)|[Django Framework](https://youtu.be/XLMLveR2BYo)| มีพื้นฐาน Python , OOP , HTML5 , CSS3 , JavaScript , Bootstrap5 , SQL |
+|![logo](https://skillicons.dev/icons?i=flask)|[Flask Micro Web Framework](https://youtu.be/U1JUicQzGMI)| มีพื้นฐาน Python , OOP , HTML5, CSS3 , JavaScript , Bootstrap5 , SQL|
 
 #### เนื้อหาที่เกี่ยวข้อง
-|Icons|หัวข้อ|หมายเหตุ|
+|เครื่องมือ|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
-|![logo](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)|[HTML5 เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMDf-N2ZmyJKEv4VlpM_9m67)|-|
-|![logo](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)|[CSS3 เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMBeWsNwB06VT3t8m5575qCP)| มีพื้นฐาน HTML5|
-|![logo](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)|[JavaScript เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMDsB7SrMh8x6uDTfl7LdNlP)| มีพื้นฐาน HTML5 , CSS3|
-|![logo](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg)|[Bootstrap5 เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMDNdxqTqiOm-D2CN3J2PF-F)| มีพื้นฐาน HTML5 , CSS3 , JavaScript |
-|![logo](https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg)|[จัดการฐานข้อมูลด้วย SQL (SQLite)](https://www.youtube.com/playlist?list=PLltVQYLz1BMAP6veiejiMdwX7J9GqmkZS)|-|
+|![logo](https://skillicons.dev/icons?i=html)|[HTML5 เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMDf-N2ZmyJKEv4VlpM_9m67)|-|
+|![logo](https://skillicons.dev/icons?i=css)|[CSS3 เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMBeWsNwB06VT3t8m5575qCP)| มีพื้นฐาน HTML5|
+|![logo](https://skillicons.dev/icons?i=js)|[JavaScript เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMDsB7SrMh8x6uDTfl7LdNlP)| มีพื้นฐาน HTML5 , CSS3|
+|![logo](https://skillicons.dev/icons?i=bootstrap)|[Bootstrap5 เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMDNdxqTqiOm-D2CN3J2PF-F)| มีพื้นฐาน HTML5 , CSS3 , JavaScript |
+|![logo](https://skillicons.dev/icons?i=sqlite)|[จัดการฐานข้อมูลด้วย SQL (SQLite)](https://www.youtube.com/playlist?list=PLltVQYLz1BMAP6veiejiMdwX7J9GqmkZS)|-|
 
 
 ## หมวดหมู่บล็อกเชน (Blockchain)
 |ไลบราลี่|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
-|![logo](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|[Python & Blockchain](https://youtu.be/Ngozvh87Ndw)| มีพื้นฐาน Python , OOP |
+|![logo](https://skillicons.dev/icons?i=python)|[Python & Blockchain](https://youtu.be/Ngozvh87Ndw)| มีพื้นฐาน Python , OOP |
 
 ## หมวดหมู่สายงาน Data Science & Machine Learning
 |ไลบราลี่|หัวข้อ|หมายเหตุ|
@@ -99,12 +99,12 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 ## หมวดหมู่การประมวลผลภาพ (Image Processing)
 |ไลบราลี่|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
-|![logo](https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg)|[Python & OpenCV](https://youtu.be/fLDJJXEykvo)| มีพื้นฐาน Python , OOP , Numpy , Pandas , Matplotib |
+|![logo](https://skillicons.dev/icons?i=opencv)|[Python & OpenCV](https://youtu.be/fLDJJXEykvo)| มีพื้นฐาน Python , OOP , Numpy , Pandas , Matplotib |
 
 ## หมวดหมู่การพัฒนาเกม (Game Development)
 |ไลบราลี่|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
-|![logo](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|[Pygame](https://youtu.be/2-UltIb7k5g)| มีพื้นฐาน Python , OOP |
+|![logo](https://skillicons.dev/icons?i=python)|[Pygame](https://youtu.be/2-UltIb7k5g)| มีพื้นฐาน Python , OOP |
 
 ## 🎓 คอร์สเรียน Python ที่น่าสนใจ
 - [สร้างแอพพลิเคชั่นด้วยภาษา Python (Real-World Projects)](https://www.udemy.com/course/python-real-world-projects/?referralCode=4D6784B6C4CF2CBB1892)
