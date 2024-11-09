@@ -21,11 +21,14 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=kongruksiamza&style=flat-square&color=blue" alt="kongruksiamza"/>
+  <a href="https://github.com/kongruksiamza/python-guideline">
+    <img src="https://komarev.com/ghpvc/?username=kongruksiamza&style=flat-square&color=blue" alt="kongruksiamza"/>
+  </a>
 </div>
 
 ## Introduction
 Python คือ ภาษาคอมพิวเตอร์ที่ใช้สำหรับการพัฒนาโปรแกรมโดยผู้พัฒนาต้องเรียนรู้โครงสร้างภาษา Python ว่ามีโครงสร้างการเขียนอย่างไรเพื่อสั่งการให้คอมพิวเตอร์นั้นสามารถทำงานตามวัตถุประสงค์ที่ต้องการได้
+
 ### ข้อดีของภาษา Python
 - ทำงานได้หลายระบบปฎิบัติการ (Windows , Mac , Linux)
 - เป็น Open Source (ใช้งานได้ฟรี ไม่มีค่าใช้จ่าย)
@@ -70,7 +73,7 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 |![logo](https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg)|[Django Framework](https://youtu.be/XLMLveR2BYo)| มีพื้นฐาน Python , OOP , HTML5 , CSS3 , JavaScript , Bootstrap5 , SQL |
 |![logo](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg)|[Flask Micro Web Framework](https://youtu.be/U1JUicQzGMI)| มีพื้นฐาน Python , OOP , HTML5, CSS3 , JavaScript , Bootstrap5 , SQL|
 
-#### เนื้อหาปูพื้นฐานการพัฒนาเว็บ (หัวข้อเสริม)
+#### เนื้อหาที่เกี่ยวข้อง
 |Icons|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
 |![logo](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)|[HTML5 เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMDf-N2ZmyJKEv4VlpM_9m67)|-|
