@@ -62,13 +62,13 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 หลังจากเรียนเนื้อหาพื้นฐานตามลำดับที่แจ้งในตารางข้างต้นเสร็จเรียบร้อย สามารถเลือกเรียนเนื้อหาอื่นๆตามหมวดหมู่ที่สนใจได้เลย **(เรียนฟรี)** ประกอบด้วย
 
 ## หมวดหมู่การพัฒนา GUI Application
-|Icons|หัวข้อ|หมายเหตุ|
+|ไลบราลี่|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
 |![logo](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|[Python & Tkinter (GUI)](https://youtu.be/NQm9VhC0vW8)| มีพื้นฐาน Python , OOP |
 |![logo](https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg)|[Python & PyQt6 (GUI Framework)](https://youtu.be/EVSXaVr2jXE)| มีพื้นฐาน Python ,OOP|
 
 ## หมวดหมู่การพัฒนาเว็บ (Backend Web Development)
-|Icons|หัวข้อ|หมายเหตุ|
+|ไลบราลี่|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
 |![logo](https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg)|[Django Framework](https://youtu.be/XLMLveR2BYo)| มีพื้นฐาน Python , OOP , HTML5 , CSS3 , JavaScript , Bootstrap5 , SQL |
 |![logo](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg)|[Flask Micro Web Framework](https://youtu.be/U1JUicQzGMI)| มีพื้นฐาน Python , OOP , HTML5, CSS3 , JavaScript , Bootstrap5 , SQL|
@@ -84,12 +84,12 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 
 
 ## หมวดหมู่บล็อกเชน (Blockchain)
-|Icons|หัวข้อ|หมายเหตุ|
+|ไลบราลี่|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
 |![logo](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|[Python & Blockchain](https://youtu.be/Ngozvh87Ndw)| มีพื้นฐาน Python , OOP |
 
 ## หมวดหมู่สายงาน Data Science & Machine Learning
-|Icons|หัวข้อ|หมายเหตุ|
+|ไลบราลี่|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
 |![logo](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg)|[Numpy](https://youtu.be/MDA8SbfdLKA)| มีพื้นฐาน Python , OOP |
 |![logo](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg)|[จัดการและวิเคราะห์ข้อมูลด้วย Pandas](https://youtu.be/SPdwqEPZ_EE)| มีพื้นฐาน Numpy |
@@ -97,12 +97,12 @@ Python คือ ภาษาคอมพิวเตอร์ที่ใช้
 |![logo](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg)|[Machine Learning เบื้องต้น](https://youtu.be/kUF5hPfQWaQ)| มีพื้นฐาน Numpy , Pandas , Matplotlib|
 
 ## หมวดหมู่การประมวลผลภาพ (Image Processing)
-|Icons|หัวข้อ|หมายเหตุ|
+|ไลบราลี่|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
 |![logo](https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg)|[Python & OpenCV](https://youtu.be/fLDJJXEykvo)| มีพื้นฐาน Python , OOP , Numpy , Pandas , Matplotib |
 
 ## หมวดหมู่การพัฒนาเกม (Game Development)
-|Icons|หัวข้อ|หมายเหตุ|
+|ไลบราลี่|หัวข้อ|หมายเหตุ|
 |:----:|:-------:|:-------------:|
 |![logo](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)|[Pygame](https://youtu.be/2-UltIb7k5g)| มีพื้นฐาน Python , OOP |
 
